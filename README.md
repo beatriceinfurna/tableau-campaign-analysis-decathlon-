@@ -1,7 +1,7 @@
 # Tableau Campaign Analysis – Decathlon x Sissy Mua
 
 ## Project Overview
-This repository presents a **group academic project** developed as part of the *IESEG Dashboarding Course*.
+This repository presents a **group academic project** developed as part of the *IESEG Data Vizualization course*.
 
 The project analyzes the performance of an **influencer marketing campaign** conducted by **Decathlon (Domyos brand)** in partnership with fitness influencer **Sissy Mua**.  
 The analysis was carried out using **Tableau**, with a strong focus on dashboard design, storytelling, and business interpretation.
@@ -57,6 +57,8 @@ My personal contributions focused on:
 
 ---
 ## Repository Structure
+## Repository Structure
+
 ```text
 tableau-campaign-analysis-decathlon/
 │
@@ -64,7 +66,12 @@ tableau-campaign-analysis-decathlon/
 │   ├── final_presentation.pdf
 │   └── README.md
 │
+├── tableau/
+│   ├── dashboard.twbx      # Tableau packaged workbook (to be added)
+│   └── README.md
+│
 └── README.md
+
 ```
 
 ---

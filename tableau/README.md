@@ -1,8 +1,10 @@
-## Tableau Workbook
+## Tableau Workbook (Academic Group Project)
 
-This folder contains the Tableau workbook used to create the dashboard.
+This folder contains the Tableau workbook developed as part of a group academic project.
 
-File:
-- `dashboard.twbx`: Packaged Tableau workbook including data and visualizations.
+- File: `dashboard.twbx`
+- Tool: Tableau Desktop
+- Context: Academic group assignment (IESEG)
 
-Note: To open this file, Tableau Desktop or Tableau Reader is required.
+Note:
+The workbook is provided for reference purposes only and is not intended for public reuse or redistribution.

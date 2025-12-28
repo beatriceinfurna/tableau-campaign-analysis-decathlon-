@@ -57,6 +57,7 @@ My personal contributions focused on:
 
 ---
 ## Repository Structure
+```text
 tableau-campaign-analysis-decathlon/
 │
 ├── report/
@@ -64,7 +65,7 @@ tableau-campaign-analysis-decathlon/
 │   └── README.md
 │
 └── README.md
-
+```
 
 ---
 ## Tools & Skills

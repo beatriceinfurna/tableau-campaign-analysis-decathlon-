@@ -1,10 +1,10 @@
 # Tableau Campaign Analysis – Decathlon x Sissy Mua
 
 ## Project Overview
-This repository presents a **group academic project** developed as part of the *IESEG Data Vizualization course*.
+This repository presents a **group academic project** developed as part of the *IESEG Data Visualization course*.
 
 The project analyzes the performance of an **influencer marketing campaign** conducted by **Decathlon (Domyos brand)** in partnership with fitness influencer **Sissy Mua**.  
-The analysis was carried out using **Tableau**, with a strong focus on dashboard design, storytelling, and business interpretation.
+The analysis was carried out using **Tableau**, with a strong focus on **dashboard design, visual storytelling, and business interpretation**.
 
 ---
 
@@ -32,49 +32,27 @@ The dashboard and analysis aim to answer two main business questions:
 ---
 
 ## Data & Methodology
-- The Tableau workbook is based on a **pre-prepared relational dataset** provided for academic purposes.
+- The Tableau analysis is based on a **pre-prepared relational dataset** provided for academic purposes.
 - The data model includes fact and dimension tables such as:
-  - Sales transactions
-  - Customers
-  - Products (SKU)
-  - Business units (stores, countries)
-- Data joins and calculations were performed directly within Tableau.
+  - Sales transactions  
+  - Customers  
+  - Products (SKU)  
+  - Business units (stores, countries)  
+- Data joins, calculated fields, and KPIs were created directly within Tableau.
 
 ⚠️ **Note:**  
-The raw datasets and Tableau workbook are not included in this repository, as they were provided through a private academic environment.
+The raw datasets are not included in this repository, as they were provided within a controlled academic environment.  
+Selected outputs and visual material are shared for portfolio purposes only.
 
 ---
 
 ## My Contribution (Group Project)
-This was a **collaborative project**.  
+This was a **collaborative academic project**.
+
 My personal contributions focused on:
-
 - **Dashboard design and layout**
-- Definition of **key KPIs** and visual structure
-- Creation of selected **charts and calculated fields**
-- Contribution to the **storytelling and presentation narrative**
-- Participation in the final presentation and insights interpretation
+- Definition of **key K**
 
----
-## Repository Structure
-## Repository Structure
-
-```text
-tableau-campaign-analysis-decathlon/
-│
-├── report/
-│   ├── final_presentation.pdf
-│   └── README.md
-│
-├── tableau/
-│   ├── dashboard.twbx      # Tableau packaged workbook (to be added)
-│   └── README.md
-│
-└── README.md
-
-```
-
----
 ## Tools & Skills
 - Tableau
 - Data visualization and dashboard design

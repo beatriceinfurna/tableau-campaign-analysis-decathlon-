@@ -1,10 +1,10 @@
-## Tableau Workbook (Academic Group Project)
+## Tableau Workbook
 
-This folder contains the Tableau workbook developed as part of a group academic project.
+The Tableau packaged workbook was developed as part of a group academic project.
+Due to file size limitations and academic constraints, the workbook is not included in this repository.
 
-- File: `dashboard.twbx`
-- Tool: Tableau Desktop
-- Context: Academic group assignment (IESEG)
+The final dashboards and insights are documented through:
+- The final presentation (`final_presentation.pdf`)
+- Dashboard screenshots included in the report materials
 
-Note:
-The workbook is provided for reference purposes only and is not intended for public reuse or redistribution.
+The project focuses on dashboard design, KPI definition, and business storytelling rather than technical deployment.
